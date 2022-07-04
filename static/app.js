@@ -1,0 +1,1 @@
+let $storyInputs = $('.story_inputs').attr('required', '');

@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'cricket';
+    src: url(/static/cricket.ttf);
+}
+
+body{
+    background-color: #12100E;
+    color: #D4DF9E;
+    text-align: center;
+}
+
+h1{
+    font-family: 'cricket';
+    font-size: 60px;
+}
+
+button{
+    background-color: #4A4B2F;
+    color: #D4DF9E;
+}
+
+p{
+    font-size: 27px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#content{
+    padding-top: 5rem;
+}
